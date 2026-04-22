@@ -1,0 +1,13 @@
+﻿/* Additional app-specific styles */
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-blue-600 {
+  color: #2563eb;
+}
